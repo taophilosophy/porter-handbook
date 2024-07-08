@@ -6,7 +6,7 @@
 >
 > - 使用社区成员提供的脚本：
 >   
->> 　　<https://github.com/safreya/tobook> 用于导出本书的 pdf，打印的话比 gitbook 导出的应该要好点。该脚本运行于 FreeBSD。
+>> 　　<https://github.com/FreeBSD-Ask/gitbook-pdf-export> 用于导出本书的 pdf，打印的话比 gitbook 导出的应该要好点。该脚本基于 Python 3 编写，兼容常见操作系统。
 >> 
 >> 具体使用方法见该项目的 README.
 
